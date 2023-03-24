@@ -1,0 +1,10 @@
+Sunny
+Windy
+Snowy
+Cloudy
+Hot
+Cold
+Rainy
+Foggy
+Stormy
+Showery
